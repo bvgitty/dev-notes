@@ -4,7 +4,7 @@
 - origin
 - main
 - HEAD
-- fork 
+- fork  
 - branch
 - merge 
 - fast forward
