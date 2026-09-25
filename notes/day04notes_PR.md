@@ -5,7 +5,7 @@
 - Branch 
 - create notes
 - add/push to origin
-- create PR
+- create PR with issue no in body , should use Closes # format or fixes or resolves
 - link issue
 - commit (merge or squash merge)
 
