@@ -1,6 +1,6 @@
 # Day 03 - Create Branch, switch branch, merge, merge conflict 
 
-# Things covered
+# Things covered on Day 3
 - Branch
 - Merge
 - Switch
